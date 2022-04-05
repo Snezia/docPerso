@@ -1,6 +1,6 @@
 Hector :
 
-Canon - Né à Bieland, près de Baken dans le village de Saari.
+Canon - Né à Bielan, près de Baken dans le village de Saari.
 Mère paladin d'Adrimaar , père Orc. Lucie
 Au service du clergé d'Adrimaar de Baken, connu du clergé. Garuk
 Avant : missions de capture de voleur, combat contre un géant et quelques coups de mains.
@@ -41,3 +41,6 @@ au coeur du culte des Hommes Poissons pour honorer de vieux pactes et rétablir 
 
 Nous sommes ensuite revenus en ville, cherchant à régler nos comptes avec les Ombres de Lune. Après discussions, nous avons convenus de soutenir une mutinerie des voleurs contre les assassins. La tête
 du loup fut tranchée.
+
+// résumé ensuite : TL bouclé, conseil de ville rassuré. Ensuite départ pour Aokval puis Lintumma ?
+Sinon : rumeur de ruines à l'ouest, témoignages d'une ancienne civilisation, désormais émergées.
