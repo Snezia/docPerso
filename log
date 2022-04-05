@@ -1,0 +1,343 @@
+Je peux utiliser Atom pour prendre des notes non ?
+
+Bon j'essaie de relancer le maven archetype api pour regénérer certains morceaux du backend et notamment le resource et ses dto. Le  reste doit être bon je crois a peu de chose.
+ca rame mais je ne sais pas pourquoi c'est relou ...
+
+Les droits sont bloqués pour le iamaas donc la fin du déploiement kub ne se fait pas. YOU-PI.
+
+Bon c'est réglé pour la génération. Je vais partir sur ça peut être. Avoir un premier object minimal ..
+
+MEEEEEEEEEEEEEH bon on commence à voir des trucs côté permissions : ALORS, en gros on a réussi à créer un scope, enfin il est apparu, côté API. On a souscrit à l'API avec la WebApp et on a validé.
+Cependant a priori pour valider l'usage de l'API il faut quand même passer par les resources SG|IAM pour créer des roles, des permissions et les accorder. Problème, mon API n'apparait pas.
+Voila voila.
+
+Kub : bloqué par Whats. bloqué par le compte iamaas : secret ? Support : appel API. ui ui ....
+Comm API-WebApp : bloqué par SG|IAM. faire sauter la sécu en local ?
+PG : bdd créé, faudra la ramener dans le backend dans demo.
+
+Je crois que j'ai commencé à en mettre partout .. OneNote, _notes, le cahier. Je crois que c'est presque propre.
+OneNote c'est beaucoup de notes pro, réunions, notes lors d'une tâche complexe etc.
+Le cahier contient aussi un peu d'infos utiles aux tâches du quotidien ainsi que des éléments envoyés par Skype ou à l'oral en daily.
+Le _notes c'est pour les captures d'écrans et quelques notes du tout début avant que je n'ai accès aux outils.
+
+Je ne crois pas que j'utilise tout mes doigts pour écrire. Ce sont mes annulaires que j'utilise le moins, trop OUF.
+
+Créer des données pour le tableau ?
+
+
+
+////
+Je sais que ça n'a rien à voir et que ce n'est ni le moment ni l'endroit mais ... Je viens de découvrir ce truc là, Coinhouse ( et d'ailleurs
+c'est la faute de la SG ils en parlaient dans une news !). Bref oui Coinhouse. C'est une sorte de Coinbase français, un peu moins cher, moins
+de choix mais qui proposent des portefeuilles d'investissement avec des résultats affichés très sexy.
+
+Je te fais un excel sur ce pc :3 Les conclusions sont plutôt moches : les produits classiques AV et PEA sont dans les choux. Ils font au
+mieux quelques pourcents. Avec la crypto je me suis fait 40% en 2 mois. Ok là on est dans une bonne période et c'est taxé à 30% sans négo
+mais quand même ...
+
+J'ai fait une simulation à jour de la déclaration d'impot dans excel. Kiki dit qu'on pourrait gruger.
+
+Pro tip : pour sécuriser tes phases de up en crypto, tu peux convertir ta crypto en stablecoin. En plus pas de soucis avec les impots comme ça.
+
+J'ai retiré 400€ d'ETH et 100€ de BAT. Puis j'ai ajouté 1000€ de mon compte et j'ai réinvesti 800€ ETH et 700€ BTC. yolo
+///
+
+Question Vacances : moi dispo du 24/07 au 08/08
+
+///
+05/07 Refinement.
+
+Coucou toi ! on cherche une maison. Ca va, motivé grace à CTO'Z. Les crypto ça a mal tourné xD le BTC s'est crash et s'en remet toujours pas,
+ l'ETH carry solo mais il tiendra pas éternellement le pauvre.
+
+ En vrai c'est rigolo de relire les messages du dessus ou le carnet etc. Je vois mon évolution sur la compréhension des sujets, forcément,
+ mais je vois aussi l'évolution de mes centres d'intérêts, de mes humeurs et de mes priorités. Cryptos, maison, A, le P, etc. C'est un giga
+ bazar ma tête mon dieu ... Je trouve quand même mes pensées plus saines en ce moment. C'est très lié au boulot quand même. Entre ce qu'on me
+ demande, les délais, les blocages, mes relations avec les autres. Ca joue énormément en fait. C'est aussi un éternel bras de fer entre
+ construire et se divertir. J'ai souvent une terrible envie de construire et de grossir : maison, enfant, carriere brillante, renommée etc
+ puis je me confronte à une énorme frustration : limitation pécunière, professionelle due à la mission ou à mon couple etc. Donc souvent je
+ me réfugie dans autre chose afin d'évacuer. P, JV etc qui me permet de canaliser mes pensées, de retrouver des satisfactions faciles.
+
+Je sais que je l'ai déjà dit et que j'ai déjà essayé de faire ça mais il faut un plan de jeu mon pote.
+
+Aujourd'hui on a commencé à track certaines choses. J'ai plus ou moins réussi à arrêter de me ronger les ongles et j'ai bien réduit le p.
+La reprise du sport est également assez stable donc bon, pour le moment c'est bien, on va pas se mentir !
+
+Niveau perso : prochaine étape maison à louer a priori, plutôt cool !
+
+Niveau pro il est temps de définir la trajectoire. Dev -> Lead -> Dev (enviro propre) Ang 9, java 11 spring boot. kube, jenkins, kibana.
+Objectif dev senior/archi/cto ? Quel traj ? Faire un article en interne, passer Crack chez Kaibe ? Commencer à faire du recrutement,
+et un article d'ici quelques semaines ce serait bien, pour se faire remarquer et bien faire comprendre en interne qu'on est un soldat sérieux.
+Ca permettra de parler augment et mission !
+
+///
+08/09 Refinement.
+
+C'est ouf on se retrouve toujours en refinement xD
+
+Je reprends dans l'ordre : la Crypto on a eu du cul, gros bull run, j'ai tout mis en stablecoin vers le 05/09 et depuis ça s'est crash. Well played
+buddy ! Côté motive je suis assez chaud grâce aux relectures de Yves qui donnent du sens à ce qu'on fait et quelques lectures sur le stoïcisme. Ca
+fait écho avec mon envie récente de prendre le temps de faire les choses bien.
+
+Ca me fait peur l'analyse au dessus mine de rien. Je me refais une grosse phase de P et de reddit depuis 2 semaines là ... c'est le yoyo. Le sport j'ai
+du arrêter à cause du déménagement :( vivement que je puisse m'y remettre !!! Je suis toujours plutot bien sur les ongles ^^" On va dire grosse phase construire,
+ grosse phase plaisir et je vais essayer de re-constuire !
+
+Côté carrière j'ai pas eu le temps de m'y replonger avec le déménagement et le taff, j'ai pas trop le temps :/
+
+Je pense qu'il faut mieux poser les objectifs. Bien comprendre ce qu'on veut et sous quels jalons. Poser les plans d'actions. Ne pas trop charger. Surtout avec
+des trucs qui ne nous interessent pas vraiment.
+
+//
+13/09 Daily/Refinement
+
+Bon en fait je fais ça quand je suis sur site et que je m'ennuie :p Bon sinon bon petit week end avec Arnaud Clara Adrien Natascha Julien Camille et Nana.
+On a fait une bonne séance de JDR et petite soirée dans bouffay sympatique. Dimanche efficace : jardin, rangement, lessive, c'était bien !
+Ce matin un chouilla plus dur, Anaelle est encore dans le mal avec ses migraines elle est partie chez le doc.
+
+//
+15/09
+
+Anaelle est en arrêt cette semaine dû à ses migraines du coup. Grosse semaine niveau taff encore, j'avance sur les MEP mais c'est interminables comme prévu.
+Sophie m'écrit de plus en plus, j'ai un peu bugué ça fait plusieurs fois qu'elle sous entend que je suis beau xD Bref.
+
+20/09
+
+Luuuundi. Gros week-end, enfin gros samedi : déménagement de Mathilde chez Mathias et emmener Nana aux urgences. Scanner de la tête : pas de caillot mais un
+premier diagnostique, nevralgie d'Arnold atypique. Conseil : osthéo/kiné. Hier on devait aller faire l'anniv d'Hélori en gouter. Je n'y suis pas allé, Anaëlle y
+est allée avec sa mère. Elles ne sont pas restées très longtemps. Moi j'ai bullé devant la télé ^^'
+
+22/09
+
+Mercredi : je suis encore crevé ... Lundi soir petit verre avec les copains du JDR, c'était cool ! Hier journée assez réu puis aprem assez focus. Les changements
+avec l'arrivée de Florent me donne le tournis ...
+
+01/10
+
+Vendredi : 10 jours ont passé, samedi jdr sympa, dimanche pépère :) la semaine a été un peu dure juste parce que je suis crevé et que niveau boulot c'est pas évident
+de trouver sa place maintenant .... On s'est fait avoir sur internet, la flyxbox ne peut pas aller au dela de 300 GO ^^' Du coup je fais venir Orange pour essayer de lancer la box,
+j'aimerai bien qu'on ait tous nos équipements de up ... On a deja pas un super internet ce serait bien de tout avoir x)
+Sinon Ophtalmo fait cette semaine, changement de lunettes ( + solaire si possible). Et dentiste ... On a regardé ma radio, je dois y retourner la semaine pro pour
+séparer ma dent de sagesse de ma molaire. Ensuite j'ai rendez vous avec un stomato le 5/11 pour planifier l'extraction des dents de sagesse ...
+
+
+08/10
+
+Vendredi demo ! Ca se passe bien. T'as fini la 258, ouf enfin ... Bon on va avoir un shitload de retours je pense... Internet on a réussi à faire marcher la livebox et la flyxbox
+vient de rez. Avec les deux on arriveà bidouiller quelque chose x) Je récupère mes paires de lunettes lundi, vivement ! Le dentiste c'était hier. C'était hardcore comme à chaque fois.
+Enfin j'ai le pansement, reste à enlever les autres dents ...
+Bon parlons de choses plus joyeuses même si on a été bien courageux :D D2 je joue pa strop solo, surtout avec les copains le mercredi soir mais j'apprécie ces moments avec eux,
+ils sont tellement passionnés c'et rigolo. Genshin on a bien repris pour suivre Anaelle mais au final on joue pas mal ! Magic je m'essouffle sur la meta : revelation truc qui joue
+2 tours c'est relou .. Sinon j'ai essayé de poser 2 semaines de vacs j'attends les retours. Faut que j'en parle à jérôme. Vivement le week end ^^'
+
+12/10
+
+Mardi sur site, petite prez SG Workflow. Bonne journée, je suis de bonne humeur parce que j'ai bien avancé sur mes tâches. C'est dingue l'effet que ça me fait d'être à l'heure et
+de bien bosser. Faut vraiment que j'arrive à identifier ce qui mène à ça. Je pense qu'on doit réduire la taille de nos US ou de nos tâches. Bref.
+Quelques news ? J'ai mes lunettes, c'est cool ! Les vacances sont validées, ça c'est bon. Sinon on rush genshin là xD bientot bannière Hu Tao je suis trop chaud ! On a choppé des cubes
+au fait ! 2, 3 et 4 sont ok. Le 2 je connais pas encore par coeur, je fais un peu au feeling avec des formules du 3. Le 4 me manque une formule pour un cas particulier relou.
+
+15/10
+
+Vendredi sur site. Craft. Ca va, juste un peu fatigué. Semaine cool niveau taff pour une fois, hier un peu short à conduire partout x) vivement le week-end :D
+
+18/10
+
+Lundi sur site. C'était dur ce matin x) aucune motivation ... Mais bon, j'ai plus grand chose à faire ce sprint donc je vais etre plus zen. Vendedi, samedi et dimanche très orientés
+Genshin, on a beaucoup joué avec Anaëlle et on  pu monter pas mal de persos c'était pas mal ! Sinon samedi pas mal de temps chez Isabelle et Stéphane, beaucoup de sujets assez hard abordés
+mais c'était important de pouvoir parler de tous ces sujets. J'ai trouvé ça libérateur de pouvoir vider son sac. C'est assez fou cette relation avec ma belle mère xD j'ai l'impression que
+pour le reste de la famille j'ai la même relation que d'habitude : le vernis impeccable, mais avec Isablle j'ai beaucoup plus d'atomes crochus ... Après ça on est allés chercher des soutifs
+pour Nana, on lui en a trouvés 2 bien mais après ça a été turbo soupe à la grimace, le ton est bien monté. Je pense que la journée était chargée. Ca s'est bien fini. Hier journée calme et ce soir
+verre avec les rôlistes.
+
+12/11
+
+Vendredi sur site. C'est le craft ! Bon ça fait un bail, il y a eu les vacances depuis. Je vais me faire opérer des dents de sagesse à la fin du mois. Je flippe un peu mais je peux pas faire grand chose.
+Anaëlle a repris boulot et études, ça se passe bien même si elle est crevée. La maison c'est pas encore trop ça, je trouve que ça part en cacahuètes ces derniers jours, je voudrais y passer du temps
+pour essayer de ranger tout ça. Pendant les vacances j'ai beaucoup joué à Genshin, genre beaucoup ... Je suis AR 51 là, Hu Tao C0, 80 avec baton de Homa 90. Tranquille. Les chats ça va. Les cryptos sont
+bien montés mais je me demande si je vais pas vendre pour me faire une rentrée d'argent. J'attends de voir avec Anaëlle si je vais en avoir besoin ou si je peux encore patienter. Faut que je sois vigilant
+à une éventuelle chute, que je puisse faire mon effet levier si ça part en live. Bon sinon c'est toujours un gros merdier dans ma tête, Anaëlle est très instable ces derniers temps, sauts d'humeur, emploi
+du temps surchargé, problème de santé. C'est un gros rodéo. Fin bref, vivement le week end ce soir ! Ah et j'ai bien fait ma salle de muscu le 2 ou 3 Novembre je sais plus, donc là ça pousse !
+
+18/11
+
+Jeudi sur site, plutot calme, fin de sprint. On achète la voiture de Nana aujourd'hui normalement ! J'étais que AR 51 la semaine dernière tiens, je suis 52 et demi là ... Hu Tao C1 et lvl 84, petit craquage !
+Les chats ont enfin dormi tous les 4 avec nous, c'était un gros bordel. Niveau crypto j'ai vendu l'ETH et le shiba lundi soir de mémoire et j'ai bien fait, c'est descendu un peu après. Les sous nous servent à
+acheter la voiture. Normalement elle devrait me rembourser avec son assurance vie, on verra comment on fait. Je verrais pour trouver un bon dip où tout balancer ensuite ! Sinon on est pas encore trop sur pour les
+vacances de Noël, je voudrais qu'on arrive au bout aujourd'hui pour enterrer le cas.
+
+23/11
+
+Mardi sur site, début de sprint. La C1 a bien été achetée, elle roule bien. AR 53, hu Tao 90 on est bien ! Je commence à m'essouffler donc je crois que je vais passer en mode minimale comme pas mal de vieux joueurs,
+daily quest, resine et deco ! Il y a eu un petit accident avec Kana sur le canapé mais o npense que c'est de ma faute quand j'ai bougé la salle de bain. Comme il n'y a pas eu de récidive, on les a remis avec nous !
+Côté crypto pas de gros mouvements depuis que j'ai sorti l'ETH. Je surveille, je me renseigne et j'apprends plein de choses passionnantes sur les crypto ! Sinon les vacances il y a eu un petit suspens hier car il a
+été question que tout l'équipe n'ait pas ses vacances et qu'il faille que quelqu'un reste là. Finalement c'est passé, Laurent dit que l'appli n'est pas réellement en prod donc flute. J'essaie de convaincre Anaëlle de
+laisser nos projets de vacances de côté par ce qu'on a pas de solution pour les chats.
+
+10/12
+
+Vendredi sur site, dernier jour de sprint ! Je crois que j'écris chaque fois que je viens donc ça devait faire presque 3 semaines que j'étais pas venu ... Bon j'ai eu une semaine d'arrêt avec l'opération des dents de
+sagesse et une semaine compliquée ensuite avec les effets secondaires. C'est pas encore la joie, j'ai mal, ça saigne et j'avale des dolipranes comme des smartie's, j'espère que ca va se tasser ^^
+Sur Genshin on est bien, AR 54 un peu avancé, on sera pas 55 pour Noël mais on sera pas loin ! Hu Tao toujours au top, les dégats sont vraiment insanes ! On a un peu rushé Albedo ces 2 dernières semaines. Faut que je
+lève le pied ! Après je l'ai monté avec arme 80, skill lvl 6 et lvl 65 je crois donc il est déjà pas mal ! J'ai encore du mal à constituer une autre équipe et à focus des persos. A part ma team 1 j'ai des demi persos :
+Kaeya, Benett, Albedo, Keqinq, Diluc ... Il faudrait que je les prenne un par un pour les monter vraiment. Bref, sinon les chats dorment de plus en plus avec nous. J'arrive petit à petit à convaincre Anaëlle que tant
+que les litières sont propres, les petits le sont aussi. La maison c'est un peu la foire, c'est sale et en bordel mais c'est lié à mon état. Dès que j'irai mieux je donnerai un bon coup ! Niveau thune moi ça va, Anaëlle
+est dans le jus c'est pas simple ... les cryptos je mets de côté, l'algo reste assez stable et c'est tout ce qui me reste ... Dans 2 semaines c'est les vacances de Noël, on avait fait un projet de roadtrip en Allemagne mais
+c'est tombé à l'eau entre le covid et les chats. Isabelle est partie de chez Stéphane, les frères et soeurs sont disperés, je remonte pas dans le nord. Bref pas grand chose. Faut que j'en reparle à Anaëlle, ne rien Faire
+pour Noël ne me convient pas :(
+
+17/12
+
+Vendredi sur site. Je ne sais pas trop par où commencer. Les dents ca va mieux, j'ai presque plus mal, moins d'odeur, de gonflements etc. Je suis allé voir le doc lundi apres le boulot et lui était assez content au final.
+Ca m'a rassuré. Je me brosse bien les dents, je fais des bains de bouche et ça va. Physiquement je me sens encore assez faiblard mais je mange un peu n'importe comment j'ai l'impression. Ca doit jouer. Faut que je me remotive !
+Le week end dernier j'ai donné un coup de collier sur le rangement et le ménage, j'ai fait pas mal de petits trucs c'était bien. Faudrait que je fasse juste litières et aspi demain ce serait parfait. Côté Genshin, un peu de
+lassitude là mais c'est par période. C'est juste que le contenu est très léger ces derniers temps et je suis pas trop hypé par mes persos ou alors ils ont besoin de trucs nuls pour être up. Genre Kokomi. Bref, toujours pas AR 55,
+je dois être à 60% je crois. Les chats ne dorment plus avec nous, l'alaise étanche c'est un enfer, ca grince et ça donne chaud. C'est moche mais bon. Sinon Isabelle est retournée chez Stéphane et dit que tout va mieux. Je suis un
+peu surpris, je les aime bien tous les deux mais leur comportement était si différent et contradictoire. M'enfin. En tout cas ça a "sauvé" le reveillon, on pourra le faire ensemble. Et on se fait le 25 chez Erwan. Yolo.
+C'est pas le plus top mais au moins ca fera un peu noël : déco, repas, cadeau. Rien ne va mal mais rien n'est extra j'ai l'impression, encore un sentiment de stagnation. Elle est dure cette année putain.
+
+21/12
+
+Kikoo. Mardi sur site, le dernier de l'année ! J'aurais pu l'esquiver mais je vais essayer de trouver le cadeau d'Envel ce midi et ce soir potentiellement marché de Noël avec Nana, ça fait longtemps ça va être sympa ! Les dents
+on est pas mal, j'ai presque plus mal, ça reste un tout petit chouilla gonflé. Maintenant j'ai du mal à différencier fils et cicatrisation, faut que je fasse gaffe ! Le boulot ça va, par un miracle obscur je suis relativement
+efficace ! Niveau maison j'ai fait les litières et l'aspi donc on est pas trop mal ! Côté Genshin toujours un peu relaché mais ça va, le dernier défi est assez cool, on peut tester des persos, ça m'a permis de jouer Kazuha, j'aurais
+préféré ça à Yoimiya mais bon. Sinon AR 55 depuis samedi ou dimanche donc plutot stylé ! Je pensais pas y arriver avant Noël j'avoue. Je farm pour Ganyu maintenant, c'est peut-être un peu tot mais ce sera jamais perdu. J'ai un gros
+coup de coeur sur les casters en ce moment, je vais peut-être en choisir un à booster un peu ! Niveau cadeaux de Noël on est pas mal, faudrait que je continue un peu aujourd'hui et demain mais ça va le faire ^^ Faut que je trouve des
+trucs pour Pauline, Papa, Benjamin, Françoise et Ulysse, sinon ca va être short ! Ce soir ? Demain ? C'est bizarre comme venir sur site me donne le moral par moment. Mon humeur fait des sacrés Yo-yo ...  J'ai lu un post Reddit hier
+qui disait que c'était un symptômes du confinement et de mal le vivre. En même temps ELLE EST OÙ MA VIE SOCIALE ??? xD
+
+04/01/2022
+
+Mardi sur site. On est passé à 1 jour par semaine vu les conditions sanitaires dégradées. Euphemisme pour dire que le variant Omicron est en roue libre ! Je sais pas trop quoi raconter. Les vacances c'était sympa. Rien de fou,
+Noël chez Stéphane, chez Erwan, chez Maman. Pas mal de cadeaux sympas, je me souviens même pas de tout j'avoue c'était un peu la course. Ensuite on s'est un peu posés vite fait, Lol et Genshin puis finalement nouvel an chez
+Arnaud et Clara, sympa. Juju a été malade. Enfin soirée chez Mathilde et Mathias avec Chloé et Scander. On commence la semaine éclatés, on a super mal dormi. Ca ira mieux après ! Pour Noël j'ai eu Vampire et Kult. Faut que je trouve
+un scénar et des joueurs maintenant !
+
+14/01
+
+Vendredi sur site. Etonnant n'est-ce pas ? Mardi Anaëlle était en distancielle pour une fois donc je viens aujourd'hui. Beaucoup de Lol depuis la semaine dernière, je sais pas trop comment j'ai re glissé là dedans mais j'enchaîne les aram.
+Je crois que j'en ai fait 150 en 10 jours. Hmm. Bon sinon la fibre devrait bientot être là ! J'ai été voir Orange la semaine dernière et en fait notre logement n'était pas référencé, j'ai fait la demande ça devrait être fini très bientôt.
+Euh re, j'ai été coupé par un moment de pair programming intense avec Yves. Petit bug à corriger, on a défoncé 8 classes et maintenant tout est testable. Typique. Bref. On arrive à faire des trucs dans la maisons en ce moment je trouve.
+Aspi, lessive, vaisselle, ca va c'est pas trop l'horreur. Faut que j'arrive à me remettre au sport, ce matin j'ai fait quelques pompes et abdos, c'était galère ! Je me pose quand même des questions sur ma santé mentale, je fais des up & down
+de fou. Des jours je suis ultraaaaaa motivé et le lendemain tout me parait fade et le surlendemain j'ai envie de me tirer une balle.
+
+21/01
+
+Hello c'est la demo ! C'est vendredi, pas de wifi .. Bon ba ca va, drole de semaine. Lundi et mardi Anaelle était avec moi à distance c'était assez sympa, ryhtme plus cool ! Mercredi Obsèques de Marie-Reine, ça a été intense, j'ai même failli
+me foutre en l'air en voiture ... Sur place ça s'est bien passé, Maman et Mamie très contente de me voir en tout cas. Hier très calme mais bien bossé. J'ai un bon équilibre là !
+
+01/02
+
+Kikoo ! Bon la semaine dernière je suis pas venu, Anaëlle était pas très bien et j'avais la flemme. Ca arrive non ? Niveau boulot c'est pas évident, on a plein de petites tâches rapides mais plus grand chose dans le backlog j'ai l'impression
+donc j'ai peur qu'on s'nnuie un peu sur ces derniers jours ... A voir ! Ah oui aujourd'hui je suis sur site ofc mais surtout, tout seul ! Bon sinon je suis un peu ramolo sur Genshin toujours AR55, Ganyu haver depuis 2 semaines je crois. Le perso est cool,
+je l'ai bien up là, elle tabasse mais il faut que je lui trouve de la sécurité, sois freeze sois shield voir les 2. Sur Lol je commence à jouer de plus en plus. J'ai stabilisé les ARAM à 300/300. Après j'ai commencé à refaire des normales et des drafts.
+Ensuite je me suis attaqué aux ranked, aïe aïe aïe. 1-9 les placements xD jes les ai faites en Caitlyn adc principalement mais soit je me faisais ouvrir, soit mon supp était fou, soit ma team était à chier. Dur dur .. Peut-être pas le meilleur perso pour
+carry ... La game où j'ai tout déchiré j'avais un nautilus supp bien chaud. Après ça j'ai joué un peu de Ahri mid, velkoz mid et supp et lux supp je crois. Ca m'a permis d'atterrir bronze 2 70LP un truc du genre. Là je me chauffe sur Akali, me demande pas
+pourquoi, je me suis dit d'un coup " ce perso est stylé, il est fort, il carry hard" et je me suis rendu compte que je ne la jouais pas parce que je ne savais pas la jouer mais qu'il était peut-être temps d'apprendre. C'est ce que j'ai commencé du coup, vidéo,
+game contre bot et entrainement. Je vais test en game pvp aujourd'hui j'espère !
+
+08/02
+
+Hello ! Pas venu depuis mardi dernier alors qu'on était censés venir 2 fois par semaine mais ma team est pas venue jeudi alors j'ai séché vendredi ! Quoi de beau sinon ? Un peu de lol, c'est toujours un massacre, on plafonne en bronze 1 ! Sinon toujours
+pas de signe de la fibre ... Demain je rappelle ! Muscu j'ai fait vendredi et dimanche avec dimanche un focus dos/traction. Demain faut que j'en refasse une ! Ce week-end petite crise entre Anaëlle et moi sur la bouffe, le poids et les remarques. Faut qu'on
+fasse des efforts d'un côté et de l'autre. Moi je vais essayer de faire un max de repas sain, ça tombe bien je suis dans une phase muscu. Faut aussi que je limite les remarques dégradantes. Ah et j'ai commencé un jeu sympa sur téléphone, genre afk arena quoi.
+Mobile Legends Adventure que ça s'appelle !
+
+11/02
+
+Hey, je me souvenais même plus que j'avais écrit mardi quand je suis venu ! Bon ba vendredi sur site pour la retro et le craft. Boring. Pas beaucoup de news, mercredi j'ai bien fait ma séance de sport malgré la super flemme, j'ai fait une grosse séance.
+Sinon sur la bouffe j'ai bien géré je rouve, ça fait plusieurs jours qu'on mange beaucoup de légumes et des prots. anaëlle rale pas trop mais elle essaie de m'arnaquer un peu ^^' Sinon mercredi proprio pour coupure de courant, rien de bien folichon.
+Ca viendrait du four quoi ... Et le gars du garage est passé et il a pas dit grand chose, au moins il a posé les plaques d'alu. Hier veto pour Kana, elle est un peu en surpoids, à surveiller ! Lol c'est toujours l'enfer, Bronze 2 là xD
+
+15/02
+
+Pôti mardi ! Week end sympa, plutôt chill. Dimanche chez Helori et Lolita. Hier j'ai rappelé Orange pour la 4e fois je crois, encore une autre personne , encore une autre promesse de réponse sous 15 jours. Le meme. Bref. Lol ca va, bronze 1, on fait des trucs
+sympas en supp avec Lux notamment. Je continue afk arena et MLA mais ça devient très calme. Faut vraiment pas se prendre la tête. Pas grand chose à raconter sinon je crois.. Ah si muscu je suis bien régulier là, séance vendredi soir, dimanche soir, lundi soir.
+J'arrive à train mes tractions avec une sangle donc ça va aider. Premier jour avec le clavier meca ! Faut que je me réhabitue ! J'ai même réussi à le mettre en bluetooth(fn E) et j'ai découvert que ctrl alt = altgr sur windows. Meilleur OS ofc.
+
+18/02
+
+Hello ! Vendredi sur site, un peu crevé, semaine longue, pas mal de sport encore et sortie Kaibee hier avec Remy. Sur lol on est passé Silver 4 cette semaine ! Grace à Lux supp et pas mal de bons mates tbh. Je pense passer en normal game à tester de repasser ADC.
+Supp c'est rigolo mais ça carry pas tant que ça ou en tout cas pas avec mon gameplay. Faudrait prendre des persos à roam. MLA et AFK-arena ca va, je fais mon bonhomme de chemin, j'ai eu mon premier skin sur mon healer là, c'est sympa. Sinon entretie annuel Kaibee.
+Ils ont pas eu de retour de la SG parce qu'Apside est à la ramasse apparemment, étonnant ! D'un autre côté je serai bien curieux de savoir ce que Olivier Bétant peut bien dire de moi, on ne s'est pas parlé vraiment depuis 6 mois ... En tout cas l'entretien s'est bien
+ passé ils sont très content de moi, j'ai un peu égo mon augment' pour passer à 41k donc cool ! Maintenant faut que je travaille mon niveau de dev, ma veille, mes cooptations. 6K mec.
+
+22/02
+
+Mardi sur site, ça y est on prend un rythme. J'ai faim, c'est vraiment un gros problème. Faut que je touve comment déjeuner le matin ... Je suis régulier sur le sport et ça commence à se voir, faut poursuivre ! Sur Lol je joue plus que adc (Vayne en fait) pour le moment,
+je prends pas mal de plaisir avec ça. MLA/AFK pas grand chose à dire, c'est un peu mou ... Kaibee, petite surprise hier avec Bertrand qui m'appelle pour finalement m'accorder 42K. EZ. Sinon j'ai l'impression de tourner en rond, la maison se dégrade, les repas ça part en torche.
+La discipline c'est dur, c'est vraiment pas mon truc... On a pris nos billets pour Disney pour Mai, Pâques on a décidé de se poser et cet été on partirait la dernière semaine de juillet en belgique avec ma famille.
+
+25/02
+
+Vendredi sur site. J'ai déjeuné du crumble aux pommes ce matin ! Toujours régulier sur le sport, je sens pas trop d'amélio sur les perfs mais je lache rien. Lol je joue chill un peu, j'ai gagné un peu de LP mais ma prio là c'est plus de m'amuser et de train, je verrais plus tard
+pour repartir sur du ladder. Oui j'ai pris ma retraite en S4 et alors ? MLA j'ai pris une grosse vague de pull là et du coup j'ai mass de persos 6* et je sais pas trop quoi faire, il me faudrait une tonne de food pour gérer tout ça, en attendant je sais pas quoi en faire. Ah Oui
+je t'ai pas dit, c'est la guerre en Ukraine depuis hier et ça me touche pas mal... Comme souvent quand la mort se rapproche de moi, je me sens mal à l'aise. Et j'ai une micro fixette sur Miami.
+
+04/03
+
+Mardi je suis venu sur site mais j'ai pas fait mon reporting ! Wahouh, le début de l'anarchie ... Bon je me souviens que j'ai bien bossé sur mes histoires de pourcentages dans les exports ! Sinon j'ai vu Thomas et c'était sympa ! J'ai pas mal spammé twitter, reddit et autre sur la
+guerre en Ukraine et j'ai installé Medium. Pas mal de musique chill aussi de mémoire. Bref. Aujourd'hui c'est un peu plus spécial, je n'ai pas fait grand chose hier, je culpabilise mais la tache que j'ai là n'est pas simple et du coup je traine un peu c'est pas bien. Sinon j'ai appelé
+Pauline hier, elle avait la gastro la pauvre et m'a annoncé que Papa était hospitalisé depuis mardi parce que son scanner et ses prises de sang étaient très mauvaises. Polypes, anémie, lésion dans les poumons et prostate énorme. Ca fait peur. J'espère que ça ira ... Sinon rien de très
+passonnant, je suis toujours très préoccupé par la guerre, le discours de Macron m'a même touché. On a plus internet depuis mardi ou mercredi donc plus de Lol, un peu de Isaac et MLA ca va ça avance, nouvelle guilde, Angela et Valir 7*. On a téléchargé "It Takes Two" hier avec Anaëlle
+c'est plutot cool pour le moment. On a aussi matté Loki c'était top ! En soit ma petite vie à moi va bien, j'ai même acheté des Solavair à 250 balles :3
+
+08/03
+
+Mardi sur site ! Résurrection de la box hier, Hallelujah. Pas mal de petites choses, j'ai appelé papa samedi, pas génial, j'ai eu surtout François et on a du couper assez vite. Je verrais qui je peux appeler ce soir ou demain. Anaëlle démarre ses exams blancs ce matin jusque jeudi, ca
+va pour le moment mais ça sera peut-être une semaine un peu tendue. Samedi on est allés déposer nos dossiers de PACS, en sortant du parking j'ai accroché mon parchoc ... J'ai pas joué à LoL depuis quelques temps, ça risque d'être compliqué là j'ai pas mal de choses à faire. Côté muscu
+j'essaie de m'accrocher, pour l'instant j'arrive à ce que mes séances ne soient pas trop écartées. Le week-end prochain j'ai jdr, soirée puis repas de famille le dimanche, ca risque d'être sportif ! MLA ca va, j'avance ! j'ai pas mal de 8*, je commence à focus la food pour essayer d'élever
+un perso, surement Odette ou Sylvanna. Côté Genshin c'est le rerun de la shogun ce soir, adios les sous !
+
+11/03
+
+Vendredi demo, je m'en suis pas trop mal sorti avec mon import gari. Pas beaucoup de nouvelles de Papa, Pauline y est allée mercredi de mémoire et o a discuté vite fait au tel. La voiture je suis en attente, j'ai un possiblement un carrossier lundi. Les exams blancs d'Anaëlle se
+sont terminés hier, ça a été je crois. Petit pose muscu cette semaine, je sentais mon corps un peu à bout, j'essaierai de relancer demain. MLA ca avance oui, j'ai eu le skin d'odette, un peu mou sur le reste. Genshin je suis allé chercher la shogun et je l'ai up 88 4/6/7 là. C'est un
+début ! Sinon je suis absorbé par la politique ces derniers temps à cause de Blast puis Elucid. C'est passionnant et terrifiant. JLM peut-il le faire ? Ca va être chaud. Découverte de Notion également !
+
+15/03
+
+Mardi sur site, début de semaine tranquille. Depuis hier en théorie plus besoin de masque mais je l'ai gardé. J'ai appelé Pauline hier, pas de nouvelles médicales pour Papa, d'après Pau, ça va un peu mieux mais clairement pas la grande forme. Pourla voiture j'ai appelé le garage hier,
+on peut passer , je verrais ça demain je pense. Demain c'est également mes chaussures qui arrivent ! Youhou ! Le week end était aussi intense que prévu mais c'était très cool, samedi aprem JDR avec le combat contre Loup, un des Croc Noir. Samedi soir soirée avec Mathias et Mathilde pour
+la dernière fois, soirée jeux. Dimanche anniversaire d'Isabelle et Envel aux Sables, je me suis fait un peu embarqué par Valentin ! Muscu Samedi et lundi validé même si hier je me suis blessé à la jambe .. Faudra que je fasse attention. MLA j'ai craqué, pas en thune mais en fusion, j'ai
+sacrifié des trucs, genre l'assassin Lumière et quelques autres dont je me souviens plus mais j'ai choppé Odette 10* et Sylvanna 9*, pour Odette il me manque plus qu'une Odette 6* pour l'éveiller !! Genshin je fais mon bonhomme de chemin, le PB est presque fini, faut que je ramasse des voeux
+pour tenter de chopper l'arme mais ça semble compliqué. Sinon toujours à fond dans le débat politique ! J'arrive à ne pas trop spamm mais je suis au taquet. Je lis les Chiens de Garde là sur conseil de Katha, me reste 1/3 je crois. Et sinon je regarde beaucoup  de trucs de dessins depuis
+quelques temps ça me chauffe à fond. Je me projette même à en faire mon métier par moment. Un peu fou et ridicule ^^'
+
+18/03
+
+Vendredi sur site, je suis un peu à la ramasse. Bon on commence par le commencement, ce soir on décolle pour Calais avec Anaëlle pour voir Papa et Pau et Françose. Voir ce qu'on peut faire dans la maison, aider comme on peut et booster le paternel si possible. Ca va être chaud mais bon roadtrip
+is roadtrip. La voiture c'est plus grave que prévu, enfin plus cher. Malheureusement faut changer le bloc optique. 1k de réparation, j'ai vu avec la MAIF ce sera pris par eux la semaine pro, je devrais m'en sortir ave cla franchise de 85€ et un malus. Chaussures récupérées mardi soir, première fois
+que je les mets longtemps aujourd'hui, un délice <3 Faut vraiment que j'en prenne soin !!! Muscu mercredi propre, j'ai fait que du haut du corps comme je me sentais très courbaturé des jambes, ce week end je vais essayer de faire pompe abdo, truc du genre. MLA pas trop d'évolution, j'ai du lacher un
+chouilla vu l'actu, je fais toujours toutes les quêtes etc mais je peux plus spam. Genshin pareil, PB fini, j'essaye d'augmenter le reste. La shogun commence à être pas mal , je l'ai testé en abysse avec Ganyu et Albedo ça fait des trucs sympas ! Le 9 et 10 sont passés tranquille ! Politique je
+bouillonne toujours mais je crois que ce sera comme ça pendant quelques semaines encore. J'ai eu un gros coup de mou en lisant des commentaires twitter de 20 mecs lobotomisés par Zemmour, c'est vraiment la fin de l'esprit critique ! Je sais pas ce que ça donnera ... Ce matin je me suis imaginé me
+présenter en élu local ça m'a fait marrer. Sinon J'ai fait un peu de dessin, enfin ! Après avoir fantasmé des lunes .. Le cahier et le criterium sont vraiment pas mal, je pense que ça va être cool. Faut juste que j'ose d'avantage, j'ai des grosses surfaces de travail mais je me cantonne à faire des
+petits dessins par peur de me rater. C'est nul !
+
+22/03
+
+Mardi sur site tout seul. Week-end intense comme prévu, Papa allait un peu mieux mais toujours alité et très faible. Repas chez Pau avec Françoise c'était sympa. Cité Europe un peu décevante mais bon, 3 brasseurs assez cool. La plage c'était sympa, petit phoque. Pas de nouvelles de la MAIF yet.
+J'ai recommencé à harceler Anjou Fibre parce que bon j'aimerai bien une réponse en fait ! Sinon Genshin pepouz, je suis au ralenti. MLA ça déboite toujours, la nouvelle guilde est pas dégueu.
+
+25/03
+
+Vendredi sur site. Fin de sprint. Hier on s'est pacsés ! :D Pas de nouvelles de Papa. Sur Genshin pas grand chose, Raiden continue de grandir, MLA ça déroule mon pote ! Sinon petit coup de coeur pour MIR le jdr, je l'ai préco du coup, typique moi.
+
+31/03
+
+Jeudi sur site, et oui ! C'est pour le départ de Carl on se fait un restau. Nouvelles de papa hier : il est rentré avec une aide de maison pour le matin , la douche tout ça, il déambule et repas livrés. Françoise va probablement le quitter ... Sinon week-end chez maman pour son anniv, c'était
+sympa, bons petits repas, pas mal de débats politiques ofc mais c'était cool ! Je lui ai offert le dernier Dickers et ça lui a plu. Lundi j'ai acheté Elden Ring, et depuis c'est le drame. 15/16h de jeu, 2 boss majeurs down ... C'est trop compliqué de resister, c'est si beau et il y a tant à faire ...
+Genshin j'ai raté l'arme de la shogun mais j'ai eu celle de Kokomi. Sans commentaire. Là on a un rerun venti avec Ayato, je vais tenter de chopper le petit ! Par contre je crois que je relance ni la faveur de l'astre ni le PB. MLA ça avance, j'ai eu Lunox hier, pour le reste c'est assez stable/mou.
+J'ai relancé Anjou Fibre hier, j'espère une réponse ! Côté boulot je suis pas très content et je commence à pas mal stresser/culpabiliser. Ca fait presque 3 semaines que je suis sur on histoire d'update avec audit.... On est en sprint PI là donc beaucoup de points retro, plannif etc mais je patine.
+Vivement les vacs dans 2 semaines !
+
+01/04
+
+Vendredi sur site, 2e jour de rang ça fait un bail. Ba pas grand chose depuis hier du coup à part qu'on s'est un peu ennuyé hier. J'ai fait toute l'aprem en wikipédia je crois. Sinon hier soir je suis passé par Domino's en rentrant, petit repas devant Cold Case qui continue de nous
+impressionner par son progressisme. Genshin pas de Venti pour le moment. J'ai joué à la manette hier et Elden Ring m'a bien réappris les doigts, ça m'a semblé beaucoup plus simple que la dernière fois. MLA je commence à chopper des ordre/chaos je suis content, c'est mon nouveau kink.
+
+05/04
+
+Mardi sur site, journée atelier de conception, krr krr krr. J'étais crevé vendredi mais depuis j'ai beaucoup dormi ou en tout cas je me suis reposé et j'ai soigné mon sommeil un peu, donc là ca va ! Week-end full repos/ménage et ça faisait du bien après les semaines de rush qu'on s'est
+mangées. C'est cool de voir qu'on arrive à récup avec un week end à blanc comme ça :) C'est la magie d'Elden Ring ça ! Deux semaines avant les vacances, j'ai hâte ! MLA j'ai eveillé 2 persos, ça fait son bonhomme de chemin. Le reste pas grand chose. Genshin je fais une pause. Ca me prend
+trop de temps face au plaisir que ça m'apporte ... 
